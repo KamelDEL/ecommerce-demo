@@ -14,13 +14,13 @@ A sleek, interactive product catalog and shopping cart experience demonstrating 
 ## Getting Started
 
 1. Install dependencies:
-   \\\Bash
+   
    npm install
-   \\\
+   
 
 2. Run the development server:
-   \\\Bash
+   
    npm run dev
-   \\\
+   
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
