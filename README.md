@@ -14,12 +14,12 @@ A sleek, interactive product catalog and shopping cart experience demonstrating 
 ## Getting Started
 
 1. Install dependencies:
-   \\\ash
+   \\\Bash
    npm install
    \\\
 
 2. Run the development server:
-   \\\ash
+   \\\Bash
    npm run dev
    \\\
 
